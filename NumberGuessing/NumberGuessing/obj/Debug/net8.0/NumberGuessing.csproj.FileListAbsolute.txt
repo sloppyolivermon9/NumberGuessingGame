@@ -1,0 +1,14 @@
+C:\Users\miles\Desktop\Sean's Coding\C#\NumberGuessing\NumberGuessing\bin\Debug\net8.0\NumberGuessing.exe
+C:\Users\miles\Desktop\Sean's Coding\C#\NumberGuessing\NumberGuessing\bin\Debug\net8.0\NumberGuessing.deps.json
+C:\Users\miles\Desktop\Sean's Coding\C#\NumberGuessing\NumberGuessing\bin\Debug\net8.0\NumberGuessing.runtimeconfig.json
+C:\Users\miles\Desktop\Sean's Coding\C#\NumberGuessing\NumberGuessing\bin\Debug\net8.0\NumberGuessing.dll
+C:\Users\miles\Desktop\Sean's Coding\C#\NumberGuessing\NumberGuessing\bin\Debug\net8.0\NumberGuessing.pdb
+C:\Users\miles\Desktop\Sean's Coding\C#\NumberGuessing\NumberGuessing\obj\Debug\net8.0\NumberGuessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miles\Desktop\Sean's Coding\C#\NumberGuessing\NumberGuessing\obj\Debug\net8.0\NumberGuessing.AssemblyInfoInputs.cache
+C:\Users\miles\Desktop\Sean's Coding\C#\NumberGuessing\NumberGuessing\obj\Debug\net8.0\NumberGuessing.AssemblyInfo.cs
+C:\Users\miles\Desktop\Sean's Coding\C#\NumberGuessing\NumberGuessing\obj\Debug\net8.0\NumberGuessing.csproj.CoreCompileInputs.cache
+C:\Users\miles\Desktop\Sean's Coding\C#\NumberGuessing\NumberGuessing\obj\Debug\net8.0\NumberGuessing.dll
+C:\Users\miles\Desktop\Sean's Coding\C#\NumberGuessing\NumberGuessing\obj\Debug\net8.0\refint\NumberGuessing.dll
+C:\Users\miles\Desktop\Sean's Coding\C#\NumberGuessing\NumberGuessing\obj\Debug\net8.0\NumberGuessing.pdb
+C:\Users\miles\Desktop\Sean's Coding\C#\NumberGuessing\NumberGuessing\obj\Debug\net8.0\NumberGuessing.genruntimeconfig.cache
+C:\Users\miles\Desktop\Sean's Coding\C#\NumberGuessing\NumberGuessing\obj\Debug\net8.0\ref\NumberGuessing.dll
